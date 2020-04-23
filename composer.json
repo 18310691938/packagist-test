@@ -1,0 +1,20 @@
+{
+    "name": "yang1024/packagist-test",
+    "description": "这是我的一个test包",
+    "keywords": ["yang2014", "packagist-test"],
+    "homepage": "http://chuangyang.xin",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "邢",
+            "email": "2417754074@qq.com"
+        }
+    ],
+    "support": {
+        "email": "2417754074@qq.com"
+    },
+    "minimum-stability": "dev"
+}
